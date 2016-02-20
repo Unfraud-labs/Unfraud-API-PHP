@@ -1,0 +1,21 @@
+{
+  "name": "unfraud/unfraud-api-php",
+  "description": "Unfraud Web Service API",
+  "minimum-stability": "stable",
+  "keywords": [
+    "unfraud",
+    "fraud"
+  ],
+  "homepage": "https://github.com/Unfraud/Unfraud-API-PHP",
+  "type": "library",
+  "require": {
+    "php": ">=5.3",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Unfraud\\": "src"
+    }
+  }
+}
