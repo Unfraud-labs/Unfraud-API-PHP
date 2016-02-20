@@ -6,7 +6,7 @@
     "unfraud",
     "fraud"
   ],
-  "homepage": "https://github.com/Unfraud/Unfraud-API-PHP",
+  "homepage": "https://github.com/Unfraud-labs/Unfraud-API-PHP",
   "type": "library",
   "require": {
     "php": ">=5.3",
