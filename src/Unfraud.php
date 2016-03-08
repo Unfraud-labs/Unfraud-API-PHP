@@ -36,7 +36,7 @@ class Unfraud
     const VERSION = 'unfraud-custom_v1.0.0';
     const LOGIN_URL = 'https://www.unfraud.com/srv/login.php';
     const ANALYTICS_URL = 'http://www.unfraud.com/unfraud_analytics/analytics.php';
-    const BEA_URL = '//www.unfraud.com/bea/bea.js';
+    const BEA_URL = '//bea.unfraud.com/bea.js';
 
     private $client;
     private static $host = 'api.unfraud.com';
